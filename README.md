@@ -3,12 +3,12 @@
 
 migrating confluence export files to Markdown Syntax
 
-[Original Script](https://github.com/meridius/confluence-to-markdown)
+[Original Script](https://github.com/arossmann/confluence-to-markdown)
 
 
 ## Tested with:
-- Ubuntu 16.04 host os
-- Docker 18.09
+- Mac OS 10.14.4 host os
+- Docker 18.09.02
 
 ## Use:
 
